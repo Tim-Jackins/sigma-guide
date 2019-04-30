@@ -2,37 +2,37 @@
   {
     "text": "Home",
     "url": "/",
-    "icon": "fa-home",
+    "icon": "fa fa-home",
     "layout": "post"
   },
   {
     "text": "About",
     "url": "/about/",
-    "icon": "fa-comments"
+    "icon": "fa fa-comments"
   },
   {
     "text": "Github",
     "url": "/#",
-    "icon": "fa-github"
+    "icon": "fab fa-github"
   },
   {
     "text": "Shop",
     "url": "rooms/shop",
-    "icon": "fa-shopping-bag"
+    "icon": "fa fa-shopping-bag"
   },
   {
     "text": "Printers",
     "url": "rooms/printers",
-    "icon": "fa-print"
+    "icon": "fa fa-print"
   },
   {
     "text": "Soldering",
     "url": "rooms/soldering",
-    "icon": "fa-microchip"
+    "icon": "fa fa-microchip"
   },
   {
     "text": "Computers",
     "url": "rooms/computers",
-    "icon": "fa-desktop"
+    "icon": "fa fa-desktop"
   }
 ]
