@@ -11,16 +11,6 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
-  },
-  {
-    "text": "Resume",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
-  },
-  {
     "text": "Github",
     "url": "/#",
     "icon": "fa-github"
@@ -28,21 +18,21 @@
   {
     "text": "Shop",
     "url": "rooms/shop",
-    "icon": "fa-shop"
+    "icon": "fa-shopping-bag"
   },
   {
     "text": "Printers",
     "url": "rooms/printers",
-    "icon": "fa-shop"
+    "icon": "fa-print"
   },
   {
     "text": "Soldering",
     "url": "rooms/soldering",
-    "icon": "fa-shop"
+    "icon": "fa-microchip"
   },
   {
     "text": "Computers",
     "url": "rooms/computers",
-    "icon": "fa-shop"
-  },
+    "icon": "fa-desktop"
+  }
 ]
