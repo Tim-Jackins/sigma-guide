@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Sigma Guide
+description: Sigma's comprohensive guide.
+author: Jack Timmins
 logo: /static/img/logo.svg
 github: https://github.com/Tim-Jackins
-about: Helping those in sigma
+about: To help navigate the tools of the Sigma Lab
 
 baseurl: "https://tim-jackins.github.io/sigma-guide/"
 url: "https://tim-jackins.github.io/sigma-guide/"
