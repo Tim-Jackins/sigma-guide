@@ -13,7 +13,7 @@
   {
     "text": "Projects",
     "url": "/projects",
-    "icon": "fa-microchip"
+    "icon": "fa-desktop"
   },
   {
     "text": "Resume",
@@ -24,5 +24,25 @@
     "text": "Github",
     "url": "/#",
     "icon": "fa-github"
-  }
+  },
+  {
+    "text": "Shop",
+    "url": "rooms/shop",
+    "icon": "fa-shop"
+  },
+  {
+    "text": "Printers",
+    "url": "rooms/printers",
+    "icon": "fa-shop"
+  },
+  {
+    "text": "Soldering",
+    "url": "rooms/soldering",
+    "icon": "fa-shop"
+  },
+  {
+    "text": "Computers",
+    "url": "rooms/computers",
+    "icon": "fa-shop"
+  },
 ]
