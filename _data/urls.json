@@ -12,22 +12,22 @@
   },
   {
     "text": "Shop",
-    "url": "rooms/shop",
+    "url": "/shop",
     "icon": "fa fa-wrench"
   },
   {
     "text": "Printers",
-    "url": "rooms/printers",
+    "url": "/printers",
     "icon": "fa fa-print"
   },
   {
     "text": "Soldering",
-    "url": "rooms/soldering",
+    "url": "/soldering",
     "icon": "fa fa-microchip"
   },
   {
     "text": "Computers",
-    "url": "rooms/computers",
+    "url": "/computers",
     "icon": "fa fa-desktop"
   }
 ]

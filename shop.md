@@ -28,13 +28,17 @@ We have a SawStop® 10" Contractor Saw. This table saw is useful for cutting acr
 
 If the red light flashs or the saw stops un expectedly don't worry it's probably not your fault! Just consult the [manual](https://www.sawstop.com/images/uploads/manuals/Manual_CNS.pdf) and an Instructor for help. It's better to deal with a pontential issue then to let something sit and have it be a problem later.
 
+#### Known problems
+
+* If the blade doesn't start reset the braker on the back of the control panel.
+
 #### Important notes
 
 Make use of the tools on the table. Try to provide one path for your material to go (forward into and through the blade). Push material through with a firm hand. The blade is spinning towards you and you don't what the blade to catch on the material and throw it backwards into you.
 
 ### Drill Press
 
-Remember the breaker on the side of the machine.
+
 
 
 
