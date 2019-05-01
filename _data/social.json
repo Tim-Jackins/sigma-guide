@@ -1,18 +1,22 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fab fa-twitter",
+    "link": "https://twitter.com/chsbacon?lang=en"
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
+    "icon": "fab fa-instagram",
+    "link": "https://www.instagram.com/explore/locations/1342725572444891/chs-sigma-lab/?hl=en"
   },
   {
-    "icon": "fa-linkedin",
-    "link": ""
+    "icon": "fab fa-github",
+    "link": "https://github.com/chssigma"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa fa-wikipedia-w",
+    "link": "http://wiki.chssigma.com/index.php?title=Main_Page"
+  },
+  {
+    "icon": "fa fa-slack",
+    "link": "https://chsbacon.slack.com/"
   }
 ]

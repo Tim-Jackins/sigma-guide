@@ -11,11 +11,6 @@
     "icon": "fa fa-comments"
   },
   {
-    "text": "Github",
-    "url": "/#",
-    "icon": "fab fa-github"
-  },
-  {
     "text": "Shop",
     "url": "rooms/shop",
     "icon": "fa fa-wrench"
