@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shop
-permalink: /rooms/shop
+permalink: /shop/
 ---
 
 # Shop
