@@ -12,11 +12,11 @@
     "link": "https://github.com/chssigma"
   },
   {
-    "icon": "fa fa-wikipedia-w",
+    "icon": "fab fa-wikipedia-w",
     "link": "http://wiki.chssigma.com/index.php?title=Main_Page"
   },
   {
-    "icon": "fa fa-slack",
+    "icon": "fab fa-slack",
     "link": "https://chsbacon.slack.com/"
   }
 ]
