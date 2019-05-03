@@ -6,14 +6,15 @@ permalink: /shop/
 
 # Shop
 
-> Safety first.
+> But a shop in dark, it's really quite dangerous.
+> -*Ozzy Ozbourne* on safety.
 
 This goes for every machine in the shop: 
 
-1. Only operate machine you know how to use.
+1. Only operate machines you know how to use.
 2. Operate them in ways that you understand.
 3. Stay at the machine until it comes to a stop.
-4. Understand that if you don't clean up after yourself you're a bad person.
+4. Understand that if you don't clean up after yourself: you're a bad person.
 
 ## Table Saw
 
@@ -74,7 +75,7 @@ The grinder is used to grind down metal fast.
 
 ### Materials
 
-Thin wood, acrylic, and metal.
+Only metal.
 
 ### Usage
 
