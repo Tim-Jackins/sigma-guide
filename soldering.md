@@ -12,9 +12,7 @@ permalink: /soldering/
 
 Soldering is the process of joining two electrical components, whether they are [wire, pads, or ball grid arrays](http://www.pcb.electrosoft-engineering.com/04-articles-custom-system-design-and-pcb/01-printed-circuit-board-concepts/printed-circuit-board-pcb-concepts.html), with solder. Wait a minute, what's solder? Solder is a metal wire with a resonably low melting point. The benefit of soldering instead of using glue or some other adhesive is that solder is conductive. This allows you to make a strong electrical connection easily.
 
-*Ugh, I hate reading. Is there a good video for this?*
-
-[![Collin's Lab: Soldering](https://img.youtube.com/vi/QKbJxytERvg/0.jpg)](http://www.youtube.com/watch?v=QKbJxytERvg)
+*Ugh, I hate reading. Is there a [good video](http://www.youtube.com/watch?v=QKbJxytERvg) for this?*
 
 ### Materials
 
