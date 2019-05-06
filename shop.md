@@ -93,3 +93,23 @@ Only metal.
 ### Important notes
 
 Here's the [manual](https://images.homedepot-static.com/catalog/pdfImages/ad/ad18f3d3-6d5b-4745-a304-54191eb9490d.pdf).
+
+## Laser Cutter
+
+The laser cutter is an incredibly useful tool for precisely cutting wood and acrylic. The laser itself is in the back right side of the laser cutter. It is bounced by a mirror on the left side of the x axis towards a mirror
+
+### Materials
+
+Thin wood and acrylic.
+
+### Usage
+
+1. Put on safety goggles and ear protection, secure any loose hair, sleeves, jackets, or ties. Do not put on gloves.
+
+### Known problems
+
+* Nothing yet.
+
+### Important notes
+
+Here's the [manual](https://www.manualslib.com/manual/1193321/Wen-4214.html).

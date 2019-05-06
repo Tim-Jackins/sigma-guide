@@ -36,7 +36,7 @@ If the station displays a static `1` as the tempurature, try turning it off, wai
 
 ## SMD / SMT
 
-If you [cut your own PCB](https://github.com/Tim-Jackins/pcb-machining), you may need to solder some SMD / SMT components. SMD components are simply normal components that come in [smaller packages](https://www.electronics-notes.com/articles/electronic_components/surface-mount-technology-smd-smt/packages.php).
+If you [cut your own PCB](https://github.com/Tim-Jackins/pcb-machining), you will need to solder some SMD / SMT components. SMD components are simply normal components that come in [smaller packages](https://www.electronics-notes.com/articles/electronic_components/surface-mount-technology-smd-smt/packages.php).
 
 ### Materials
 
@@ -54,4 +54,4 @@ Currently we have the following SMD components:
 
 ### Usage
 
-There's a [good video](https://www.youtube.com/watch?v=QzoPxvIM2qE) that you should really watch but in a general sense: follow all the same rules as regular solder and when you solder an SMD component add solder to one of the pads, heat up that pad and position the SMD component, then solder the other side of the component to the other pad. 
+There's a [good video](https://www.youtube.com/watch?v=QzoPxvIM2qE) that you should really watch but in a general sense: follow all the same rules as regular solder and when you solder an SMD component add solder to one of the pads, heat up that pad and position the SMD component, then solder the other side of the component.
