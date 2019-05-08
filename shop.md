@@ -96,7 +96,7 @@ Here's the [manual](https://images.homedepot-static.com/catalog/pdfImages/ad/ad1
 
 ## Laser Cutter
 
-The laser cutter is an incredibly useful tool for precisely cutting wood and acrylic. The laser itself is in the back right side of the laser cutter. It is bounced by a mirror on the left side of the x axis towards a mirror
+The laser cutter is an incredibly useful tool for precisely cutting wood and acrylic. The laser itself is in the back left side of the laser cutter pointing toward the front. It is bounced by a mirror on the left side of the x axis towards a mirror in the head which redirects towards your material. Anything that you can laser cut should be laser cut.
 
 ### Materials
 
@@ -104,12 +104,18 @@ Thin wood and acrylic.
 
 ### Usage
 
-1. Put on safety goggles and ear protection, secure any loose hair, sleeves, jackets, or ties. Do not put on gloves.
+1. Make a new drawing with the sheet dimensions 600mm x 300mm.
+2. Lay all the parts you want to laser cut flat onto it and save it as an `Adobe Illustrator` file
+3. Delete any extra text or hole crosshairs.
 
 ### Known problems
 
-* Nothing yet.
+* Before your auto-z the laser table, check the sevros underneath the table! Sometimes students brush pieces of acrylic off and the land in the piles of grease on top of those servos. This can prevent the laser from auto-z-ing, hurt the servos, and make an awful noise.
 
 ### Important notes
 
-Here's the [manual](https://www.manualslib.com/manual/1193321/Wen-4214.html).
+Here's the [service manual](http://engravingsystemsllc.com/wp-content/uploads/2015/11/VLS-Platform-Series-Service-Manual.pdf).
+
+If you have trouble understanding a procedure head to youtube. There are plenty of tutorial videos.
+
+
