@@ -32,7 +32,9 @@ Do not under any circumstances use it to cut plastic, make large pools or solder
 
 If the station displays a static `1` as the tempurature, try turning it off, waiting a second, and turning it back on. If that doesn't work try unplugging the iron, wait a second, and plug it back in.
 
-## SMD / SMT
+If solder is covering a through-hole, you should place the soldering iron on one side and a solder sucker on the other side. Heat up the solder with the iron and pull away the iron while sucking the solder throught the hole and into the solder sucker. Sometimes you must add some solder to help leftover solder heat up don't be afraid to do this it can help get you out of a jam.
+
+## SMD / SMT Soldering
 
 If you [cut your own PCB](https://github.com/Tim-Jackins/pcb-machining), you will need to solder some SMD / SMT components. SMD components are simply normal components that come in [smaller packages](https://www.electronics-notes.com/articles/electronic_components/surface-mount-technology-smd-smt/packages.php).
 
