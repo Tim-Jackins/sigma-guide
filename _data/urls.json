@@ -26,8 +26,8 @@
     "icon": "fa fa-microchip"
   },
   {
-    "text": "Computers",
-    "url": "/computers",
-    "icon": "fa fa-desktop"
+    "text": "Coding",
+    "url": "/coding",
+    "icon": "fa fa-code"
   }
 ]
