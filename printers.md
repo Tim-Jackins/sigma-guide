@@ -30,6 +30,10 @@ Here's the Makerbot [manual](http://download.makerbot.com/replicator/MB_Replicat
 
 Here's the Ultimaker 2+ [manual](https://ultimaker.com/en/resources/18767-unboxing).
 
+## Support Bath
+
+Hmm, what's that white plastic that's printed out as scaffolding?
+
 ## Recycling material
 
 Everytime a new spool is unboxed save the box. Everytime a spool runs out of material box it in a saved box. Once you have three boxed spools follow [these shipping instructions](https://www.stratasys.com/recycling/recycling-instructions#51287761-ffb3-44de-b422-cf2aaa35887d) and recycle those spools!

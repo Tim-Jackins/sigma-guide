@@ -59,7 +59,7 @@ Thin wood, acrylic, and metal. Make sure that the bit you're using is right for 
 
 ### Known problems
 
-* Nothing yet.
+* If the chuck of the drill falls out consult [this video](https://www.youtube.com/watch?v=KbI_7IHAsyw) to re-install it (*Jump to 3 minutes in*).
 
 ### Important notes
 
